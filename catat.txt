@@ -1,1 +1,9 @@
 npx create-next-app@14.2.4 nextapp --ts  && cd nextapp && npm i next@14.2.4
+bun x --bun shadcn@latest init
+bun x --bun shadcn@latest add  --- click a --- enter
+bun add next-themes
+
+git commit -m "basic setup, shadcn ui, theme-provider"
+
+
+resi jne 080350000690925
